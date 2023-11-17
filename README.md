@@ -19,4 +19,4 @@ An E-Commerce Website, where users can select products, can read blogs about the
 
 ## Demo
 
-- [Cara E-Commerce](https://cara-e-commerce-by-abbeer.netlify.app/)
+- [Cara E-Commerce - Live Website](https://cara-e-commerce-by-abbeer.netlify.app/)
